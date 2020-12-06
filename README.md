@@ -1,2 +1,3 @@
-# online-MCQ-test-servlet-jsp-java
+# Technology
 
+  java, jsp, servlet, css, mySql-database, animatedCss(plugin)
